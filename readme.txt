@@ -33,27 +33,15 @@ Many thanks to DayZ Boosterz website for their easy-to-use and fast tools! https
 
 types.xml edits
 
-2 x Weapons.
-
-2 x Mags.
-
-2 x Boxed Ammo.
-
-2 x Food.
-
-2 x Drinks.
-
-2 x Tools.
-
-3/4 Loose Ammo.
-
-3/4 Flags.
-
-3/4 Clothing.
-
 Payday masks added ( 1 of each).
 
 Mags spawn full of bullets.
+
+Antibiotics bottles full.
+
+Vitamin bottles full.
+
+Chelating bottles full.
 
 ----------
 
